@@ -1,0 +1,29 @@
+# AI coding assistant metadata
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+COPILOT.md
+.agents/
+.claude/
+.codex/
+.cursor/
+.windsurf/
+.github/copilot-instructions.md
+*.prompt.md
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editor and OS files
+.idea/
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+*.log
