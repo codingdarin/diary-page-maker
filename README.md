@@ -2,6 +2,8 @@
 
 브라우저에서 바로 사용하는 4:5 다이어리 속지 제작 도구입니다. 별도 서버나 빌드 과정 없이 종이 구성과 스타일을 조정하고 고해상도 PNG로 저장할 수 있습니다.
 
+**바로 사용해 보기:** https://codingdarin.github.io/diary-page-maker/
+
 ## 주요 기능
 
 - 최대 3×3 영역 구성과 드래그 셀 병합
@@ -34,7 +36,7 @@ git clone https://github.com/codingdarin/diary-page-maker.git
 cd diary-page-maker
 ```
 
-정적 파일만 사용하므로 GitHub Pages 같은 정적 호스팅에도 바로 배포할 수 있습니다.
+정적 파일만 사용하므로 GitHub Pages 같은 정적 호스팅에 그대로 배포됩니다. 공개 데모도 GitHub Pages로 서비스합니다.
 
 ## 기술
 
